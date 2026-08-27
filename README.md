@@ -1,6 +1,6 @@
 # Cryptogram (PlaySimple) Solver
 
-A simple Python CLI tool designed to automate solving levels 1 through 3000 in the Android game **Cryptogram** by **PlaySimple**. Tested and optimized for the **Samsung S25** ($1080 \times 2340$ resolution).
+A simple Python CLI tool designed to automate solving levels 1 through 3000 in the Android game **Cryptogram** by **PlaySimple**. Tested and optimized for the **Samsung S25** (1080 x 2340 resolution).
 
 The program retrieves solutions sourced from [GameAnswer.net](https://www.gameanswer.net/) and inputs them directly onto your device via ADB.
 
@@ -45,8 +45,8 @@ The scripts `ocr-convert.py` and `stitch.py` were originally drafted using Googl
 
 ## Prerequisites
 
-* **Samsung S25** (or any device with a $1080 \times 2340$ screen resolution)
-* **Python 3.11**
+* **Samsung S25** (or any Android device with a 1080 x 2340 screen resolution)
+* **Python 3.11 or 3.12 for stability**
 * **OpenCV**
   
 * **ADB (Android Debug Bridge)** installed and added to system PATH
