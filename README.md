@@ -46,6 +46,8 @@ The scripts `ocr-convert.py` and `stitch.py` were originally drafted using Googl
 ## Prerequisites
 
 * **Samsung S25** (or any device with a $1080 \times 2340$ screen resolution)
-* **Python 3.x**
+* **Python 3.11**
+* **OpenCV**
+  
 * **ADB (Android Debug Bridge)** installed and added to system PATH
 * **USB Debugging** enabled on your phone
